@@ -1,0 +1,24 @@
+Body
+{
+    font-size:35px;
+    padding:0;
+    margin:0;
+    background:url('https://wallpaperaccess.com/full/4893694.jpg');
+    background-size:cover;
+
+}
+form
+{
+    top:30%;
+    left:37%;
+    position: absolute;
+    padding:20px;
+}
+form>h1
+{
+    text-align:center;
+}
+#name
+{
+    width:250px;
+}
